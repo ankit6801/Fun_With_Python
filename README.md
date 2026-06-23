@@ -1,4 +1,4 @@
 Class And Object Creations \
-Student Management System \n 
+Student Management System \
 Rectangle class \
 Library management System
