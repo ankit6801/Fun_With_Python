@@ -1,4 +1,4 @@
 Class And Object Creations \
-Student Management System 
-Rectangle class
-Library management Syatem
+Student Management System \n 
+Rectangle class \
+Library management System
